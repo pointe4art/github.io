@@ -54,8 +54,8 @@
     setText("current-year", String(new Date().getFullYear()));
 
     if (contact) {
-      setText("contact-address", contact.address);
-      setText("contact-mailing", contact.mailingAddress);
+      setText("contact-address", contact.location);
+      
 
       const emailEl = document.getElementById("contact-email");
       if (emailEl && contact.email) {
@@ -63,11 +63,7 @@
         emailEl.href = `mailto:${contact.email}`;
       }
 
-      const phoneEl = document.getElementById("contact-phone");
-      if (phoneEl && contact.phone) {
-        phoneEl.textContent = contact.phone;
-        const cleanPhone = contact.phone.replace(/[^+\d]/g, "");
-        phoneEl.href = `tel:${cleanPhone}`;
+      
       }
     }
   }
@@ -295,3 +291,4 @@
   initLightboxEvents();
   initMobileMenu();
 })();
+
