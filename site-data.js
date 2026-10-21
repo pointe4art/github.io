@@ -67,7 +67,7 @@ window.SITE_DATA = {
     caption: "Youth in front of one of her favorite Art."
   },
   {
-    src: "images/Floating Memory Art Exhibition_09.jpg",
+    src: "images/Floating Memory Art Exhibition_09.JPG",
     caption: "Family Memory in front of San Jose Asian Art Center."
   }     
 ]
