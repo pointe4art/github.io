@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="h2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#222834" />
+      <stop offset="100%" stop-color="#7c5c26" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#h2)" />
+  <polygon points="400,120 432,205 522,205 450,258 476,345 400,292 324,345 350,258 278,205 368,205" fill="#f5d57a" opacity="0.88" />
+  <text x="400" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#ffffff" font-weight="bold">Youth Leadership &amp; Excellence Awards</text>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#f5d57a">Annual Awards Ceremony</text>
+</svg>

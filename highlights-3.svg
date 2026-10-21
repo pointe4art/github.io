@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="h3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f3b3d" />
+      <stop offset="100%" stop-color="#8b4f39" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#h3)" />
+  <circle cx="280" cy="240" r="85" fill="#e8b86d" opacity="0.75" />
+  <circle cx="480" cy="250" r="95" fill="#c95b4b" opacity="0.75" />
+  <circle cx="390" cy="180" r="70" fill="#f4efe6" opacity="0.55" />
+  <text x="400" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#ffffff" font-weight="bold">Live Painting &amp; Collaborative Mural</text>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#f4efe6">Interactive Studio Session</text>
+</svg>

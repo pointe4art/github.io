@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="h4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2c2235" />
+      <stop offset="100%" stop-color="#5c2838" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#h4)" />
+  <rect x="140" y="140" width="520" height="260" rx="14" fill="rgba(255,255,255,0.12)" stroke="#e6c77e" stroke-width="3" />
+  <text x="400" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#ffffff" font-weight="bold">Mentors &amp; Student Artists Group Portrait</text>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#e6c77e">Pointe4Art Community</text>
+</svg>

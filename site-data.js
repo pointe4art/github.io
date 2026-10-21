@@ -40,19 +40,19 @@ window.SITE_DATA = {
         "Showcasing original oil paintings, watercolors, photography, and mixed-media works created by youth artists exploring cultural heritage and expressive movement.",
       images: [
         {
-          src: "assets/images/exhibition-gallery-1.svg",
+          src: "exhibition-gallery-1.svg",
           caption: "Opening Reception & Youth Canvas Showcase"
         },
         {
-          src: "assets/images/exhibition-gallery-2.svg",
+          src: "exhibition-gallery-2.svg",
           caption: "Award-Winning Watercolor & Brushwork Collection"
         },
         {
-          src: "assets/images/exhibition-gallery-3.svg",
+          src: "exhibition-gallery-3.svg",
           caption: "Pointe & Performing Arts Photography Series"
         },
         {
-          src: "assets/images/exhibition-gallery-4.svg",
+          src: "exhibition-gallery-4.svg",
           caption: "Young Artists Panel & Curator Walkthrough"
         }
       ]
@@ -67,19 +67,19 @@ window.SITE_DATA = {
         "Memorable moments from our cross-cultural showcase, featuring live classical and contemporary dance interludes alongside youth fine art critiques and community awards.",
       images: [
         {
-          src: "assets/images/highlights-1.svg",
+          src: "highlights-1.svg",
           caption: "Youth Ensemble Classical & Contemporary Pointe Performance"
         },
         {
-          src: "assets/images/highlights-2.svg",
+          src: "highlights-2.svg",
           caption: "Youth Leadership & Artistic Excellence Awards Ceremony"
         },
         {
-          src: "assets/images/highlights-3.svg",
+          src: "highlights-3.svg",
           caption: "Live Painting & Collaborative Mural Workshop"
         },
         {
-          src: "assets/images/highlights-4.svg",
+          src: "highlights-4.svg",
           caption: "Guest Mentors & Student Artists Group Portrait"
         }
       ]
@@ -94,19 +94,19 @@ window.SITE_DATA = {
         "An immersive multi-week summer camp bringing together young painters, photographers, and dancers for plein-air sketching, cultural heritage tours, and studio intensives.",
       images: [
         {
-          src: "assets/images/camp-1.svg",
+          src: "camp-1.svg",
           caption: "Plein-Air Landscape Sketching & Watercolor Session"
         },
         {
-          src: "assets/images/camp-2.svg",
+          src: "camp-2.svg",
           caption: "Cultural Heritage Architecture & Photography Field Study"
         },
         {
-          src: "assets/images/camp-3.svg",
+          src: "camp-3.svg",
           caption: "Dance Choreography & Movement Masterclass"
         },
         {
-          src: "assets/images/camp-4.svg",
+          src: "camp-4.svg",
           caption: "Campers Sharing Sketchbooks & Cultural Reflections"
         }
       ]
@@ -121,15 +121,15 @@ window.SITE_DATA = {
         "Our spring traveling exhibition celebrating dialogue across cultures through youth portrait photography, calligraphy, ballet/pointe studies, and botanical painting.",
       images: [
         {
-          src: "assets/images/spring-exhibition-1.svg",
+          src: "spring-exhibition-1.svg",
           caption: "Gallery Installation & Community Visitors"
         },
         {
-          src: "assets/images/spring-exhibition-2.svg",
+          src: "spring-exhibition-2.svg",
           caption: "Youth Botanical & Ink Wash Painting Series"
         },
         {
-          src: "assets/images/spring-exhibition-3.svg",
+          src: "spring-exhibition-3.svg",
           caption: "Documentary Photography: Stories of Community"
         }
       ]
@@ -144,15 +144,15 @@ window.SITE_DATA = {
         "Pointe4Art student volunteers organized charity art sales and benefit recitals to donate sketchbooks, paint sets, easels, and dance shoes to underserved elementary classrooms.",
       images: [
         {
-          src: "assets/images/donation-1.svg",
+          src: "donation-1.svg",
           caption: "Student Volunteers Packing Art Kits & Sketchbooks"
         },
         {
-          src: "assets/images/donation-2.svg",
+          src: "donation-2.svg",
           caption: "Art Supplies Delivery & Classroom Painting Day"
         },
         {
-          src: "assets/images/donation-3.svg",
+          src: "donation-3.svg",
           caption: "Collaborative Youth Art Workshop with Elementary Students"
         }
       ]

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#232938" />
+      <stop offset="100%" stop-color="#5c3a4d" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g4)" />
+  <rect x="110" y="110" width="170" height="220" rx="6" fill="#f4efe6" opacity="0.9" />
+  <rect x="315" y="95" width="170" height="240" rx="6" fill="#f4efe6" opacity="0.95" />
+  <rect x="520" y="110" width="170" height="220" rx="6" fill="#f4efe6" opacity="0.9" />
+  <text x="400" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#ffffff" font-weight="bold">Young Artists Panel &amp; Curator Walkthrough</text>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#e5cfa0">Community Exhibition Dialogue</text>
+</svg>

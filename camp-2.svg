@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="c2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2c3545" />
+      <stop offset="100%" stop-color="#875c3a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#c2)" />
+  <rect x="230" y="135" width="340" height="230" rx="18" fill="none" stroke="#f5d57a" stroke-width="5" />
+  <circle cx="400" cy="250" r="65" fill="none" stroke="#ffffff" stroke-width="5" />
+  <text x="400" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#ffffff" font-weight="bold">Cultural Heritage &amp; Photography Study</text>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#f5d57a">Lenses &amp; Paintbrushes Camp</text>
+</svg>

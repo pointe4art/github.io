@@ -2,21 +2,21 @@
 
 Official website for **Pointe4Art**, modeled after [yhcca.com](https://yhcca.com/) to showcase youth art & dance exhibitions, cultural exchange camps, community service donations, and 501(c)(3) nonprofit mission & contact details.
 
-## Project Structure
+## Project Structure (All in Root Folder)
 
 - `index.html` — Main single-page layout (Header, Mission statement, Exhibitions & Events showcase feed, Community Service callout, Nonprofit Footer, and full-screen Lightbox viewer).
-- `css/styles.css` — Responsive styles, gallery cards, and mobile navigation.
-- `js/site-data.js` — **Central content configuration**. Edit this file to update your mission, EIN, contact details, or add new exhibitions and photo galleries.
-- `js/main.js` — Renders event sections, category filter tabs, and interactive photo lightbox.
-- `assets/images/` — Organization logo (`logo.svg`) and event gallery images.
+- `styles.css` — Responsive styles, gallery cards, and mobile navigation.
+- `site-data.js` — **Central content configuration**. Edit this file to update your mission, EIN, contact details, or add new exhibitions and photo galleries.
+- `main.js` — Renders event sections, category filter tabs, and interactive photo lightbox.
+- `logo.svg` & `*.svg` — Organization logo and event gallery images directly in the root folder.
 
 ## How to Customize Content & Photos
 
 1. **Update Organization Info, EIN, and Contact Details**:
-   Open `js/site-data.js` and edit the `organization` and `contact` objects at the top of the file.
+   Open `site-data.js` and edit the `organization` and `contact` objects at the top of the file.
 2. **Add or Edit Exhibitions & Events**:
-   - Place your `.jpg`, `.png`, or `.webp` event photos in `assets/images/`.
-   - In `js/site-data.js`, add a new item to the `events` array (or update the existing items) with `title`, `date`, `category` (`"exhibition"`, `"camp"`, or `"community"`), `description`, and `images`.
+   - Place your `.jpg`, `.png`, `.svg`, or `.webp` event photos in the root directory.
+   - In `site-data.js`, add a new item to the `events` array (or update the existing items) with `title`, `date`, `category` (`"exhibition"`, `"camp"`, or `"community"`), `description`, and `images`.
 
 ## How to Publish to `pointe4art.github.io`
 

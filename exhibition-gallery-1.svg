@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2b1d28" />
+      <stop offset="50%" stop-color="#6e2332" />
+      <stop offset="100%" stop-color="#d49b4b" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g1)" />
+  <circle cx="620" cy="160" r="95" fill="rgba(255,240,200,0.18)" />
+  <rect x="90" y="90" width="260" height="320" rx="8" fill="#faf6f0" stroke="#e2c58a" stroke-width="6" />
+  <path d="M120 350 Q190 210 260 310 T320 260" fill="none" stroke="#8b2635" stroke-width="6" />
+  <circle cx="185" cy="195" r="34" fill="#c59b27" opacity="0.8" />
+  <rect x="410" y="120" width="290" height="290" rx="8" fill="#faf6f0" stroke="#e2c58a" stroke-width="6" />
+  <path d="M460 350 C500 220, 590 220, 640 350" fill="none" stroke="#2b1d28" stroke-width="5" />
+  <circle cx="555" cy="215" r="26" fill="#8b2635" />
+  <text x="400" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#ffffff" font-weight="bold">Opening Reception &amp; Youth Canvas Showcase</text>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#f5deb3">Pointe4Art First Art Exhibition</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2c1c2c" />
+      <stop offset="60%" stop-color="#7a2e46" />
+      <stop offset="100%" stop-color="#d8a48f" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g3)" />
+  <circle cx="400" cy="250" r="145" fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="3" />
+  <path d="M360 360 C375 290, 395 200, 415 140 C430 205, 445 290, 460 360" fill="none" stroke="#f7e2a4" stroke-width="6" stroke-linecap="round" />
+  <path d="M335 280 Q405 230 485 280" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" />
+  <text x="400" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#ffffff" font-weight="bold">Pointe &amp; Performing Arts Photography</text>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#f7e2a4">Movement &amp; Lens Series</text>
+</svg>
