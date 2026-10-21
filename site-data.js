@@ -8,21 +8,19 @@
 window.SITE_DATA = {
   organization: {
     name: "Pointe4Art",
-    tagline: "Youth Arts, Dance & Cultural Exchange",
+    tagline: "Youth Arts, Leadership & Community Service Foundation",
     statusBadge: "501(c)(3) Youth Nonprofit Organization",
-    nonprofitLegal: "501(c)(3) Nonprofit Organization (EIN: XX-XXXXXXX)",
+    nonprofitLegal: "501(c)(3) Nonprofit Organization (EIN: 42-4891693)",
     mission:
-      "Our mission is to promote international and local exchanges in visual arts, dance, performing arts, culture, and creative technology among young people. As a federally recognized 501(c)(3) nonprofit organization, we strive to cultivate leadership, artistic excellence, creativity, and a strong sense of public service, empowering youth to make meaningful contributions to their communities and society.",
+      "Our mission is to make arts education more accessible to young people by providing free dance instruction, supporting local arts programs, and inspiring creativity, student leadership, and community service.",
     communityDescription:
       "From charity art exhibitions and benefit dance performances to school art supply donations, Pointe4Art members channel their passion for painting, photography, and performing arts into lasting community impact."
   },
 
   contact: {
-    address: "Silicon Valley / Bay Area, CA",
-    email: "info@pointe4art.org",
-    phone: "+1 (000) 000-0000",
-    mailingAddress: "PO BOX 000, San Jose, CA 95101"
-  },
+    location: "San Jose, CA",
+    email: "pointe4art@gmail.com",
+      },
 
   /**
    * Exhibitions, Camps, and Community Events
@@ -159,3 +157,4 @@ window.SITE_DATA = {
     }
   ]
 };
+
