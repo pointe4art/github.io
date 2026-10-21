@@ -39,31 +39,28 @@ window.SITE_DATA = {
       images: [
   {
     src: "images/Floating Memory Art Exhibition_01.jpg",
-    caption: "Gallery presentation during the Floating Memory exhibition."
+    caption: "By the Gain of High Tech We Promote Art."
   },
-  {
-    src: "images/Floating Memory Art Exhibition_02.JPG",
-    caption: "Youth participants visiting and learning from a contemporary art exhibition."
-  },
+ 
   {
     src: "images/Floating Memory Art Exhibition_03.jpg",
-    caption: "Exterior view of the exhibition venue and community arts space."
+    caption: "Helping with Food Preparation at Art Exhibition."
   },
   {
     src: "images/Floating Memory Art Exhibition_04.jpg",
-    caption: "Exterior view of the exhibition venue and community arts space."
+    caption: "Helping with Food Preparation at Art Exhibition."
   },
   {
     src: "images/Floating Memory Art Exhibition_05.jpg",
-    caption: "Exterior view of the exhibition venue and community arts space."
+    caption: "Openning for the Artisits- Han Xin"
   },
   {
     src: "images/Floating Memory Art Exhibition_06.jpg",
-    caption: "Exterior view of the exhibition venue and community arts space."
+    caption: "Friends gathering in front of Art."
   },
   {
     src: "images/Floating Memory Art Exhibition_07.jpg",
-    caption: "Exterior view of the exhibition venue and community arts space."
+    caption: "Engchun's farorite picture."
   },
   {
     src: "images/Floating Memory Art Exhibition_08.jpg",
@@ -71,7 +68,7 @@ window.SITE_DATA = {
   },
   {
     src: "images/Floating Memory Art Exhibition_09.jpg",
-    caption: "Exterior view of the exhibition venue and community arts space."
+    caption: "Family Memory in front of San Jose Asian Art Center."
   }     
 ]
     },
