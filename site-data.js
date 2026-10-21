@@ -38,11 +38,11 @@ window.SITE_DATA = {
         "Youth volunteers supported a local art exhibition-Floating Memory.",
       images: [
   {
-    src: "images/art-exhibition-01.jpg",
+    src: "Floating Memory Art Exhibition_01.jpg",
     caption: "Gallery presentation during the Floating Memory exhibition."
   },
   {
-    src: "images/art-exhibition-02.jpg",
+    src: "Floating Memory Art Exhibition_02.jpg",
     caption: "Youth participants visiting and learning from a contemporary art exhibition."
   },
   {
