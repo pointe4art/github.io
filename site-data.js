@@ -44,7 +44,7 @@ window.SITE_DATA = {
  
   {
     src: "images/Floating Memory Art Exhibition_03.jpg",
-    caption: "Helping with Food Preparation at Art Exhibition."
+    caption: "Youth volunteers with Mr. Shu, Director of the Asian Art Center."
   },
   {
     src: "images/Floating Memory Art Exhibition_04.jpg",
@@ -52,7 +52,7 @@ window.SITE_DATA = {
   },
   {
     src: "images/Floating Memory Art Exhibition_05.jpg",
-    caption: "Openning for the Artisits- Han Xin"
+    caption: "Helping with Food Preparation at Art Exhibition."
   },
   {
     src: "images/Floating Memory Art Exhibition_06.jpg",
