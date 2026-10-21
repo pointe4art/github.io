@@ -56,11 +56,11 @@ window.SITE_DATA = {
   },
   {
     src: "images/Floating Memory Art Exhibition_06.jpg",
-    caption: "Friends gathering in front of Art."
+    caption: "Introducing to our Artisits-Ms Xin Han."
   },
   {
     src: "images/Floating Memory Art Exhibition_07.jpg",
-    caption: "Engchun's farorite picture."
+    caption: "Youth in front of one of her favorite Art."
   },
   {
     src: "images/Floating Memory Art Exhibition_08.jpg",
