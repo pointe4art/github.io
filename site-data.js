@@ -33,27 +33,23 @@ window.SITE_DATA = {
       category: "exhibition",
       categoryLabel: "Art Exhibition",
       date: "Autumn 2026",
-      title: "Annual “Youth on Pointe & Canvas – Telling Stories Through Lenses, Paintbrushes, and Movement” First Art Exhibition",
+      title: "Art Exhibition Volunteer Service",
       description:
-        "Showcasing original oil paintings, watercolors, photography, and mixed-media works created by youth artists exploring cultural heritage and expressive movement.",
+        "Youth volunteers supported a local art exhibition-Floating Memory.",
       images: [
-        {
-          src: "exhibition-gallery-1.svg",
-          caption: "Opening Reception & Youth Canvas Showcase"
-        },
-        {
-          src: "exhibition-gallery-2.svg",
-          caption: "Award-Winning Watercolor & Brushwork Collection"
-        },
-        {
-          src: "exhibition-gallery-3.svg",
-          caption: "Pointe & Performing Arts Photography Series"
-        },
-        {
-          src: "exhibition-gallery-4.svg",
-          caption: "Young Artists Panel & Curator Walkthrough"
-        }
-      ]
+  {
+    src: "images/art-exhibition-01.jpg",
+    caption: "Gallery presentation during the Floating Memory exhibition."
+  },
+  {
+    src: "images/art-exhibition-02.jpg",
+    caption: "Youth participants visiting and learning from a contemporary art exhibition."
+  },
+  {
+    src: "images/art-exhibition-03.jpg",
+    caption: "Exterior view of the exhibition venue and community arts space."
+  }
+]
     },
     {
       id: "sixth-exhibition-highlights",
@@ -157,4 +153,3 @@ window.SITE_DATA = {
     }
   ]
 };
-
