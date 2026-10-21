@@ -48,7 +48,7 @@ window.SITE_DATA = {
   },
   {
     src: "images/Floating Memory Art Exhibition_05.jpg",
-    caption: "Youth volunteers engaging with one another while exploring the Floating Memory art exhibition.."
+    caption: "Youth enjoying the artwork before the Floating Memory exhibition."
   },
   {
     src: "images/Floating Memory Art Exhibition_05.jpg",
