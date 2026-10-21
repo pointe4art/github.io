@@ -48,7 +48,31 @@ window.SITE_DATA = {
   {
     src: "images/Floating Memory Art Exhibition_03.jpg",
     caption: "Exterior view of the exhibition venue and community arts space."
-  }
+  },
+  {
+    src: "images/Floating Memory Art Exhibition_04.jpg",
+    caption: "Exterior view of the exhibition venue and community arts space."
+  },
+  {
+    src: "images/Floating Memory Art Exhibition_05.jpg",
+    caption: "Exterior view of the exhibition venue and community arts space."
+  },
+  {
+    src: "images/Floating Memory Art Exhibition_06.jpg",
+    caption: "Exterior view of the exhibition venue and community arts space."
+  },
+  {
+    src: "images/Floating Memory Art Exhibition_07.jpg",
+    caption: "Exterior view of the exhibition venue and community arts space."
+  },
+  {
+    src: "images/Floating Memory Art Exhibition_08.jpg",
+    caption: "Exterior view of the exhibition venue and community arts space."
+  },
+  {
+    src: "images/Floating Memory Art Exhibition_09.jpg",
+    caption: "Exterior view of the exhibition venue and community arts space."
+  }     
 ]
     },
     {
