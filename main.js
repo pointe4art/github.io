@@ -60,10 +60,7 @@
       const emailEl = document.getElementById("contact-email");
       if (emailEl && contact.email) {
         emailEl.textContent = contact.email;
-        emailEl.href = `mailto:${contact.email}`;
-      }
-
-      
+        emailEl.href = `mailto:${contact.email}`; 
       }
     }
   }
