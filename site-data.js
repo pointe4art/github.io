@@ -47,8 +47,8 @@ window.SITE_DATA = {
     caption: "Youth volunteers with Mr. Shu, Director of the Asian Art Center."
   },
   {
-    src: "images/Floating Memory Art Exhibition_04.jpg",
-    caption: "Helping with Food Preparation at Art Exhibition."
+    src: "images/Floating Memory Art Exhibition_05.jpg",
+    caption: "Youth volunteers engaging with one another while exploring the Floating Memory art exhibition.."
   },
   {
     src: "images/Floating Memory Art Exhibition_05.jpg",
@@ -56,11 +56,11 @@ window.SITE_DATA = {
   },
   {
     src: "images/Floating Memory Art Exhibition_06.jpg",
-    caption: "Introducing to our Artisits-Ms Xin Han."
+    caption: "Artists introducing their work and sharing insights during the Floating Memory exhibition.."
   },
   {
     src: "images/Floating Memory Art Exhibition_07.jpg",
-    caption: "Friends gathering in front of Art."
+    caption: "Artists and guests gathering to celebrate art and community at the Floating Memory exhibition.."
   },
   {
     src: "images/Floating Memory Art Exhibition_08.jpg",
