@@ -60,11 +60,11 @@ window.SITE_DATA = {
   },
   {
     src: "images/Floating Memory Art Exhibition_07.jpg",
-    caption: "Youth in front of one of her favorite Art."
+    caption: "Friends gathering in front of Art."
   },
   {
     src: "images/Floating Memory Art Exhibition_08.jpg",
-    caption: "Exterior view of the exhibition venue and community arts space."
+    caption: "Youth in front of one of her favorite Art."
   },
   {
     src: "images/Floating Memory Art Exhibition_09.jpg",
