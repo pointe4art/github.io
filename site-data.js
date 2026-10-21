@@ -46,18 +46,22 @@ window.SITE_DATA = {
     src: "images/Floating Memory Art Exhibition_03.jpg",
     caption: "Youth volunteers with Mr. Shu, Director of the Asian Art Center."
   },
+        
   {
     src: "images/Floating Memory Art Exhibition_05.jpg",
     caption: "Youth enjoying the artwork before the Floating Memory exhibition."
   },
+        
   {
     src: "images/Floating Memory Art Exhibition_04.jpg",
     caption: "Helping with Food Preparation at Art Exhibition."
   },
+        
   {
     src: "images/Floating Memory Art Exhibition_06.jpg",
     caption: "Artists introducing their work and sharing insights during the Floating Memory exhibition.."
   },
+        
   {
     src: "images/Floating Memory Art Exhibition_07.jpg",
     caption: "Artists and guests gathering to celebrate art and community at the Floating Memory exhibition.."
@@ -66,6 +70,7 @@ window.SITE_DATA = {
     src: "images/Floating Memory Art Exhibition_08.jpg",
     caption: "Youth in front of one of her favorite Art."
   },
+        
   {
     src: "images/Floating Memory Art Exhibition_09.JPG",
     caption: "Family Memory in front of San Jose Asian Art Center."
