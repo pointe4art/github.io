@@ -46,7 +46,7 @@ window.SITE_DATA = {
     caption: "Youth participants visiting and learning from a contemporary art exhibition."
   },
   {
-    src: "images/art-exhibition-03.jpg",
+    src: "images/Floating Memory Art Exhibition_03.jpg",
     caption: "Exterior view of the exhibition venue and community arts space."
   }
 ]
