@@ -106,6 +106,10 @@ window.SITE_DATA = {
           src: "images/Dance In the Park_05.jpg",
           caption: "Youth Dance Instructions at Park"
         },
+        {
+          src: "images/Dance In the Park_06.jpg",
+          caption: "Youth Dance Instructions at Park"
+        },
        {
           src: "images/Spring Festival_1.jpg",
           caption: "Dance Performance at Community Center to Celebrate Chinese New Year"
