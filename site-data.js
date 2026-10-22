@@ -80,8 +80,8 @@ window.SITE_DATA = {
     {
       id: "sixth-exhibition-highlights",
       category: "camp",
-      categoryLabel: "Dance Community",
-      date: "Summer 2026",
+      categoryLabel: "Community Dance Engagement",
+      date: "Ongoing",
       title: "Dance Volunteer Gallary",
       description:
         "Youth dance volunteer memorable moments.",
