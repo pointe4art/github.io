@@ -80,28 +80,40 @@ window.SITE_DATA = {
     {
       id: "sixth-exhibition-highlights",
       category: "camp",
-      categoryLabel: "Highlights",
+      categoryLabel: "Dance Community",
       date: "Summer 2026",
-      title: "Annual “Youth on Pointe & Canvas – Telling Stories Through Lenses and Paintbrushes” Highlights",
+      title: "Dance Volunteer Gallary",
       description:
-        "Memorable moments from our cross-cultural showcase, featuring live classical and contemporary dance interludes alongside youth fine art critiques and community awards.",
+        "Youth dance volunteer memorable moments.",
       images: [
         {
-          src: "highlights-1.svg",
-          caption: "Youth Ensemble Classical & Contemporary Pointe Performance"
+          src: "images/Dance In the Park_01.jpg",
+          caption: "Youth Dance Instructions at Park"
         },
         {
-          src: "highlights-2.svg",
-          caption: "Youth Leadership & Artistic Excellence Awards Ceremony"
+          src: "images/Dance In the Park_02.jpg",
+          caption: "Youth Dance Instructions at Park"
         },
         {
-          src: "highlights-3.svg",
-          caption: "Live Painting & Collaborative Mural Workshop"
+          src: "images/Dance In the Park_03.jpg",
+          caption: "Youth Dance Instructions at Park"
         },
         {
-          src: "highlights-4.svg",
-          caption: "Guest Mentors & Student Artists Group Portrait"
+          src: "images/Dance In the Park_04.jpg",
+          caption: "Youth Dance Instructions at Park"
         }
+        {
+          src: "images/Dance In the Park_05.jpg",
+          caption: "Youth Dance Instructions at Park"
+        }
+       {
+          src: "images/Spring Festival_1.jpg",
+          caption: "Dance Performance at Community Center to Celebrate Chinese New Year"
+        }  
+        {
+          src: "images/Spring Festival_2.jpg",
+          caption: "Dance Performance at Community Center to Celebrate Chinese New Year"
+        }     
       ]
     },
     {
