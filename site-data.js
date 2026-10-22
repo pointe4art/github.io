@@ -82,9 +82,9 @@ window.SITE_DATA = {
       category: "camp",
       categoryLabel: "Community Dance Engagement",
       date: "Ongoing",
-      title: "Dance Volunteer Gallary",
+      title: "Youth Dance & Community Engagement",
       description:
-        "Youth dance volunteer memorable moments.",
+        "Highlights from our ongoing youth dance activities, including community dance instruction and cultural performances celebrating Chinese traditions.",
       images: [
         {
           src: "images/Dance In the Park_01.jpg",
