@@ -164,8 +164,8 @@ window.SITE_DATA = {
       ]
     },
        {
-      id: "spring-second-exhibition",
-      category: "exhibition",
+      id: "community-school-donation",
+      category: "community",
       categoryLabel: "Fund Raising",
       date: "Ongoing",
       title: "Fund Raising to make donations to support community art program",
