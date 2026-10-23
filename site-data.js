@@ -166,23 +166,31 @@ window.SITE_DATA = {
     {
       id: "spring-second-exhibition",
       category: "exhibition",
-      categoryLabel: "Art Exhibition",
-      date: "Spring 2026",
-      title: "Spring “Bridges of Culture – Youth Perspectives in Fine Art & Dance” Second Art Exhibition",
+      categoryLabel: "Fund Raising",
+      date: "Ongoing",
+      title: "Fund Raising to make donations to support community art program",
       description:
         "Our spring traveling exhibition celebrating dialogue across cultures through youth portrait photography, calligraphy, ballet/pointe studies, and botanical painting.",
       images: [
         {
-          src: "spring-exhibition-1.svg",
-          caption: "Gallery Installation & Community Visitors"
+          src: "images/Pet Caring_01.jpg",
+          caption: " "
         },
         {
-          src: "spring-exhibition-2.svg",
-          caption: "Youth Botanical & Ink Wash Painting Series"
+          src: "images/Pet Caring_02.jpg",
+          caption: " "
         },
         {
-          src: "spring-exhibition-3.svg",
-          caption: "Documentary Photography: Stories of Community"
+          src: "images/Pet Caring_03.jpg",
+          caption: " "
+        },
+         {
+          src: "images/Pet Caring_05.jpg",
+          caption: "  "
+        },
+         {
+          src: "images/Pet Caring_06.jpg",
+          caption: "  "
         }
       ]
     },
