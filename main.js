@@ -166,8 +166,37 @@
         galleryGrid.appendChild(card);
       });
 
+       // Fundraising ways (cards instead of photos)
+      let waysGrid = null;
+      if (eventItem.fundraisingWays && eventItem.fundraisingWays.length) {
+        waysGrid = document.createElement("div");
+        waysGrid.className = "fundraising-ways";
+
+        eventItem.fundraisingWays.forEach((way) => {
+          const wayCard = document.createElement("div");
+          wayCard.className = "fundraising-way";
+
+          const iconEl = document.createElement("div");
+          iconEl.className = "fundraising-icon";
+          iconEl.setAttribute("aria-hidden", "true");
+          iconEl.textContent = way.icon || "";
+
+          const wayTitle = document.createElement("h4");
+          wayTitle.textContent = way.title;
+
+          const wayDesc = document.createElement("p");
+          wayDesc.textContent = way.description;
+
+          wayCard.appendChild(iconEl);
+          wayCard.appendChild(wayTitle);
+          wayCard.appendChild(wayDesc);
+          waysGrid.appendChild(wayCard);
+        });
+      }
+
       sectionEl.appendChild(headerEl);
-      sectionEl.appendChild(galleryGrid);
+      if (waysGrid) sectionEl.appendChild(waysGrid);
+      if (galleryGrid.children.length) sectionEl.appendChild(galleryGrid);
       eventsContainer.appendChild(sectionEl);
     });
   }
