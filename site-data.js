@@ -123,14 +123,14 @@ window.SITE_DATA = {
     {
       id: "summer-exchange-camp",
       category: "camp",
-      categoryLabel: "Youth Camp",
-      date: "July 2026",
-      title: "Summer “Youth Arts & Cultural Exchange – Telling Stories with Lenses and Paintbrushes” Camp",
+      categoryLabel: "Community Donation and Service",
+      date: "Ongoing",
+      title: "Youth Community Outreach to Support Dance Studio and Community Service",
       description:
-        "An immersive multi-week summer camp bringing together young painters, photographers, and dancers for plein-air sketching, cultural heritage tours, and studio intensives.",
+        "Highlights from Donation to Local Studios and Other Community Service.",
       images: [
         {
-          src: "camp-1.svg",
+          src: "images/Spring Festival_2.jpg",
           caption: "Plein-Air Landscape Sketching & Watercolor Session"
         },
         {
