@@ -191,37 +191,6 @@ window.SITE_DATA = {
             "We collect water bottles and soda cans in the park, keeping it clean and turning the recycling refunds into donations."
         }
       ]
-    },
-    {
-      id: "community-school-donation",
-      category: "community",
-      categoryLabel: "",
-      date: "Ongoing",
-      title: "",
-      description:
-        "",
-      images: [
-         {
-          src: "donation-1.svg",
-          caption: " "
-        },
-        {
-          src: "donation-2.svg",
-          caption: " "
-        },
-        {
-          src: "donation-3.svg",
-          caption: " "
-        },
-         {
-          src: "donation-3.svg",
-          caption: "  "
-        },
-         {
-          src: "donation-4.svg",
-          caption: "  "
-        }
-      ]
-    }
+    }   
   ]
 };
