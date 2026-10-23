@@ -197,30 +197,30 @@ window.SITE_DATA = {
     {
       id: "community-school-donation",
       category: "community",
-      categoryLabel: "Fund Raising",
+      categoryLabel: "",
       date: "Ongoing",
-      title: "Fund Raising to make donations to support community art program",
+      title: "",
       description:
-        "Fund Raising to make donations to support community art program.",
+        "",
       images: [
          {
-          src: "images/Pet Caring_01.jpg",
+          src: "donation-1.svg",
           caption: " "
         },
         {
-          src: "images/Pet Caring_02.jpg",
+          src: "donation-2.svg",
           caption: " "
         },
         {
-          src: "images/Pet Caring_03.jpg",
+          src: "donation-3.svg",
           caption: " "
         },
          {
-          src: "images/Pet Caring_05.jpg",
+          src: "donation-3.svg",
           caption: "  "
         },
          {
-          src: "images/Pet Caring_06.jpg",
+          src: "donation-4.svg",
           caption: "  "
         }
       ]
