@@ -130,21 +130,37 @@ window.SITE_DATA = {
         "Highlights from Donation to Local Studios and Other Community Service.",
       images: [
         {
-          src: "images/Spring Festival_2.jpg",
-          caption: "Plein-Air Landscape Sketching & Watercolor Session"
+          src: "images/Mexican Heritage Dance Program_01.jpg",
+          caption: "   "
         },
         {
-          src: "camp-2.svg",
-          caption: "Cultural Heritage Architecture & Photography Field Study"
+          src: "images/Mexican Heritage Dance Program_02.jpg",
+          caption: "  "
         },
         {
-          src: "camp-3.svg",
-          caption: "Dance Choreography & Movement Masterclass"
+          src: "images/City Team_02.jpg",
+          caption: " "
         },
         {
-          src: "camp-4.svg",
-          caption: "Campers Sharing Sketchbooks & Cultural Reflections"
-        }
+          src: "images/City Team_03.jpg",
+          caption: ""
+        },
+        {
+          src: "images/City Team_04.jpg",
+          caption: ""
+        },
+        {
+          src: "images/City Team_05.jpg",
+          caption: ""
+        },
+       {
+          src: "images/Raft_01.jpg",
+          caption: ""
+        },
+       {
+          src: "images/Raft_02.jpg",
+          caption: ""
+        },
       ]
     },
     {
