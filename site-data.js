@@ -197,23 +197,31 @@ window.SITE_DATA = {
     {
       id: "community-school-donation",
       category: "community",
-      categoryLabel: "Community Service",
-      date: "Winter 2025 – 2026",
-      title: "Youth Charity Drive & Art Supplies Donation to Partner Elementary Schools",
+      categoryLabel: "Fund Raising",
+      date: "Ongoing",
+      title: "Fund Raising to make donations to support community art program",
       description:
-        "Pointe4Art student volunteers organized charity art sales and benefit recitals to donate sketchbooks, paint sets, easels, and dance shoes to underserved elementary classrooms.",
+        "Fund Raising to make donations to support community art program.",
       images: [
-        {
-          src: "donation-1.svg",
-          caption: "Student Volunteers Packing Art Kits & Sketchbooks"
+         {
+          src: "images/Pet Caring_01.jpg",
+          caption: " "
         },
         {
-          src: "donation-2.svg",
-          caption: "Art Supplies Delivery & Classroom Painting Day"
+          src: "images/Pet Caring_02.jpg",
+          caption: " "
         },
         {
-          src: "donation-3.svg",
-          caption: "Collaborative Youth Art Workshop with Elementary Students"
+          src: "images/Pet Caring_03.jpg",
+          caption: " "
+        },
+         {
+          src: "images/Pet Caring_05.jpg",
+          caption: "  "
+        },
+         {
+          src: "images/Pet Caring_06.jpg",
+          caption: "  "
         }
       ]
     }
