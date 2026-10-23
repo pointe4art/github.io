@@ -32,7 +32,7 @@ window.SITE_DATA = {
       id: "sixth-exhibition-first",
       category: "exhibition",
       categoryLabel: "Art Exhibition",
-      date: "Autumn 2026",
+      date: "Oct 2026",
       title: "Art Exhibition Volunteer Service",
       description:
         "Youth volunteers supported a local art exhibition-Floating Memory.",
@@ -81,7 +81,7 @@ window.SITE_DATA = {
       id: "sixth-exhibition-highlights",
       category: "camp",
       categoryLabel: "Community Dance Engagement",
-      date: "Ongoing",
+      date: " ",
       title: "Youth Dance & Community Engagement",
       description:
         "Highlights from our ongoing youth dance activities, including community dance instruction and cultural performances celebrating Chinese traditions.",
@@ -124,7 +124,7 @@ window.SITE_DATA = {
       id: "summer-exchange-camp",
       category: "camp",
       categoryLabel: "Community Donation and Service",
-      date: "Ongoing",
+      date: " ",
       title: "Youth Community Outreach to Support Dance Studio and Community Service",
       description:
         "Highlights from Donation to Local Studios and Other Community Service.",
@@ -167,7 +167,7 @@ window.SITE_DATA = {
       id: "community-school-donation",
       category: "community",
       categoryLabel: "Fund Raising",
-      date: "Ongoing",
+      date: " ",
       title: "Fund Raising to make donations to support community art program",
       description:
         "Our fundraising effort supports the community art program. Every contribution goes toward donations that keep art accessible to our neighbours.",
