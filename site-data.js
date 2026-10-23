@@ -160,7 +160,7 @@ window.SITE_DATA = {
        {
           src: "images/Raft_02.jpg",
           caption: ""
-        },
+        }
       ]
     },
     {
