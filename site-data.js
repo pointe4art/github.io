@@ -163,34 +163,32 @@ window.SITE_DATA = {
         }
       ]
     },
-    {
+       {
       id: "spring-second-exhibition",
       category: "exhibition",
       categoryLabel: "Fund Raising",
       date: "Ongoing",
       title: "Fund Raising to make donations to support community art program",
       description:
-        "Our spring traveling exhibition celebrating dialogue across cultures through youth portrait photography, calligraphy, ballet/pointe studies, and botanical painting.",
-      images: [
+        "Our fundraising effort supports the community art program. Every contribution goes toward donations that keep art accessible to our neighbours.",
+      fundraisingWays: [
         {
-          src: "images/Pet Caring_01.jpg",
-          caption: " "
-        },
-        {
-          src: "images/Pet Caring_02.jpg",
-          caption: " "
+          icon: "🐾",
+          title: "Pet Caring for Neighbours",
+          description:
+            "We look after pets for neighbours who are not at home, including feeding, walking, and companionship. All fees go to the community art program."
         },
         {
-          src: "images/Pet Caring_03.jpg",
-          caption: " "
+          icon: "👕",
+          title: "Re-sale Clothes & Goodies",
+          description:
+            "We sell pre-loved clothing and goodies on Depop and Mercari, giving items a second life while raising funds."
         },
-         {
-          src: "images/Pet Caring_05.jpg",
-          caption: "  "
-        },
-         {
-          src: "images/Pet Caring_06.jpg",
-          caption: "  "
+        {
+          icon: "♻️",
+          title: "Park Bottle & Can Collection",
+          description:
+            "We collect water bottles and soda cans in the park, keeping it clean and turning the recycling refunds into donations."
         }
       ]
     },
